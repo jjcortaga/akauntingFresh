@@ -3,7 +3,7 @@
 return [
 
     'items'                 => 'Item|Items',
-    'incomes'               => 'Income|Incomes',
+    'incomes'               => 'Income|Income',
     'invoices'              => 'Invoice|Invoices',
     'revenues'              => 'Revenue|Revenues',
     'customers'             => 'Customer|Customers',
