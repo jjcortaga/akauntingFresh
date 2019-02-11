@@ -1,4 +1,5 @@
 # Prevent Directory Listing
+DirectoryIndex index.php
 <IfModule autoindex>
 	IndexIgnore *
 </IfModule>
